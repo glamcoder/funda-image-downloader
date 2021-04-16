@@ -7,4 +7,6 @@ You will need to have [Perl 5](https://www.perl.org/) installed. You will also n
 
 ## Usage
 
-`perl imgd2.pl "funda_propery_url" "images_destination_directory"`
+```sh
+~ $ perl imgd2.pl "funda_propery_url" "images_destination_directory"
+```
